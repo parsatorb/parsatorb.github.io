@@ -11,3 +11,8 @@
 .pic-orange {
   color: var(--picOrange);
 }
+
+/*Not a constant but don't feel like making another file just for this one thing*/
+/*div {
+	text-align: justify;
+}*/
