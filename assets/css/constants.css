@@ -1,0 +1,13 @@
+:root {
+    --resumeOrange:#b95c39;
+    --picOrange: #c78239;
+    --gray: ;
+}
+
+.resume-orange {
+  color: var(--resumeOrange);
+}
+
+.pic-orange {
+  color: var(--picOrange);
+}
