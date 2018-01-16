@@ -910,18 +910,18 @@
 	}
 
 		.logo{
-			width: 200px;
-			height: 200px;
+			width: 150px;
+			height: 150px;
 		}
 
 		.logo.right{
 			float: right;
-			margin: 20px;
+			margin: 10px;
 		}
 
 		.logo.left{
 			float: left;
-			margin: 20px;
+			margin: 10px;
 		}
 
 		.image img {
