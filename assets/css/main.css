@@ -42,6 +42,10 @@
 		-webkit-text-size-adjust: none;
 	}
 
+	i.fa-4x:hover {
+		color: var(--resumeOrange);
+	}
+
 /* Box Model */
 
 	*, *:before, *:after {
@@ -907,6 +911,14 @@
 	.container {
 		border-top:1px solid lightgrey;
 		margin-bottom: 10px;
+	}
+
+	.linkedText {
+		font-size: xx-large;
+	}
+
+	.jumplink {
+		text-decoration: none !important;
 	}
 
 /* Image */
